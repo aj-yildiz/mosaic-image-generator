@@ -1,0 +1,5 @@
+gradio==4.9.0
+numpy==1.24.3
+opencv-python-headless==4.9.0.80
+scikit-image==0.21.0
+Pillow==10.0.0
